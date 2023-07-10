@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "581781960241",
+    "project_id": "attendance-portal-845c3",
+    "storage_bucket": "attendance-portal-845c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581781960241:android:3f1b6cd52aa80ae8970710",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581781960241-ipcbiuigij4skd7tvi2rin8kcq2jf340.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendance_system",
+            "certificate_hash": "42517b40ab764f5e5b899482ddfdc70fb676d5c9"
+          }
+        },
+        {
+          "client_id": "581781960241-65rughst66pl0jhbjrf2l083jo4c2neh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWvOD7vDhCneoJhmC_dE_tGfiCbYaGoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581781960241-65rughst66pl0jhbjrf2l083jo4c2neh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581781960241:android:782635cfbeec54e0970710",
+        "android_client_info": {
+          "package_name": "com.example.geofencing_based_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581781960241-65rughst66pl0jhbjrf2l083jo4c2neh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWvOD7vDhCneoJhmC_dE_tGfiCbYaGoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581781960241-65rughst66pl0jhbjrf2l083jo4c2neh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
