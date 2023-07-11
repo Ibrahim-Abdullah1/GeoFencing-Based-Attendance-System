@@ -1,6 +1,10 @@
 # geofencing_based_attendance_system
+The GBAS mobile App is geofencing based attendance system that allow user to mark attendance. while app utilizes geo-fencing technology to ensure that attendance is only recorded when an employee is within the designated premises of the organization.
+App contains:
+    **Admin portal:** Portal from where Admin can register New Employee, Manage Attendance Record, Delete and Update Employees record and data.
+    **Employee portal:**Employee can mark attendance through slider submittion, Attendance contains turn In and turn out portions. Employee can also mark attendance through QR code scannig, and there is option available for viewing attendance.
 
-![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/cad8f959-e839-4908-816b-874c905460d9)
+
 
 **Splash Screen**
 
