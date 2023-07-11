@@ -4,7 +4,7 @@ App contains:
     **Admin portal:** Portal from where Admin can register New Employee, Manage Attendance Record, Delete and Update Employees record and data.
     **Employee portal:**Employee can mark attendance through slider submittion, Attendance contains turn In and turn out portions. Employee can also mark attendance through QR code scannig, and there is option available for viewing attendance.
 
-
+_Firebase is used in backend_
 
 **Splash Screen**
 
@@ -34,5 +34,20 @@ Here the Registered employees can login and mark Attendance by slider, or by sca
 **Register new Employee**
 
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/f8c3ac19-9baf-4cab-9c27-09680020f83b)
+
+**Employees Record Table**
+
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/fad4be4e-bdda-4f6e-871d-a17e2e172f7f)
+
+**Attendance Record Month Selection**
+
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/d617fde9-d731-41d7-a17f-a8d440a63f3d)
+
+**Edit Employees Profile**
+
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/a824957d-0f82-4c1b-a65d-88b6bf542bac)
+
+
+
 
 
