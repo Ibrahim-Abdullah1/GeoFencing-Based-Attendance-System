@@ -26,11 +26,12 @@ Here the Registered employees can login and mark Attendance by slider, or by sca
 
 **Admin Portal**
 
+
 **Admin Dashboard**
 
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/95c8431a-0d7a-41d3-87f4-6bb07253f579)
 
 **Register new Employee**
+
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/91c1547e-7035-4d1b-9a93-f9f2cd4fc965)
-![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/602ff252-947d-4ed2-b3bd-2451a136e148)
 
