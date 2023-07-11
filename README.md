@@ -1,16 +1,28 @@
-# geofencing_based_attendance_system
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/cad8f959-e839-4908-816b-874c905460d9)# geofencing_based_attendance_system
 
-A new Flutter project.
+**Splash Screen**
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/9851d0dd-2012-4478-a3e5-2f28f96a7958)
 
-## Getting Started
+**Admin or Employee**
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/b161550f-6ea9-4c51-9289-4d1cfff33b85)
 
-This project is a starting point for a Flutter application.
+**Employee portal:**
+Here the Registered employees can login and mark Attendance by slider, or by scanning QR code. Employee can also view attendance history of any month.
 
-A few resources to get you started if this is your first Flutter project:
+**Employee Login**
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/0b84b7b7-44e9-4bb2-8559-a8c6bc82b28e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**Admin Portal**
+
+**Admin Dashboard**
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/95c8431a-0d7a-41d3-87f4-6bb07253f579)
+
+**Register new Employee**
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/91c1547e-7035-4d1b-9a93-f9f2cd4fc965)
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/602ff252-947d-4ed2-b3bd-2451a136e148)
+
+
+
+Admin Portal
