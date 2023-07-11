@@ -1,15 +1,21 @@
-![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/cad8f959-e839-4908-816b-874c905460d9)# geofencing_based_attendance_system
+# geofencing_based_attendance_system
+
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/cad8f959-e839-4908-816b-874c905460d9)
 
 **Splash Screen**
+
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/9851d0dd-2012-4478-a3e5-2f28f96a7958)
 
 **Admin or Employee**
+
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/b161550f-6ea9-4c51-9289-4d1cfff33b85)
 
 **Employee portal:**
+
 Here the Registered employees can login and mark Attendance by slider, or by scanning QR code. Employee can also view attendance history of any month.
 
 **Employee Login**
+
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/0b84b7b7-44e9-4bb2-8559-a8c6bc82b28e)
 
 
@@ -23,6 +29,3 @@ Here the Registered employees can login and mark Attendance by slider, or by sca
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/91c1547e-7035-4d1b-9a93-f9f2cd4fc965)
 ![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/602ff252-947d-4ed2-b3bd-2451a136e148)
 
-
-
-Admin Portal
