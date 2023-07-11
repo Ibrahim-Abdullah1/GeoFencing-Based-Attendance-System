@@ -33,5 +33,6 @@ Here the Registered employees can login and mark Attendance by slider, or by sca
 
 **Register new Employee**
 
-![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/91c1547e-7035-4d1b-9a93-f9f2cd4fc965)
+![image](https://github.com/Ibrahim-Abdullah1/GeoFencing-Based-Attendance-System/assets/104096912/f8c3ac19-9baf-4cab-9c27-09680020f83b)
+
 
